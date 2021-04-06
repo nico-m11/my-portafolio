@@ -339,7 +339,7 @@ header {
 
 .main-cinque {
     display: flex;
-    height: 30vh;
+    height: 60vh;
     width: 100vw;
     justify-content: space-between;
     background-color: black;
