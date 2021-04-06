@@ -375,7 +375,7 @@ a > i {
         flex-wrap: wrap;
     }
     .main-cinque {
-        height: 60vh;
+        height: auto;
     }
 }
 
@@ -456,6 +456,6 @@ a > i {
     }
 
     .main-cinque {
-        height: 60vh;
+        height: auto;
     }
 }
