@@ -365,6 +365,10 @@ a > i {
     .main-due-int {
         flex-wrap: wrap;
     }
+    /*main tre*/
+    .main-tre {
+        height: auto;
+    }
     /*main cinque */
 
     .main-cinque-row {
@@ -432,6 +436,10 @@ a > i {
     }
 
     /*main-tre title*/
+    .main-tre {
+        height: auto;
+    }
+
     .main-tre-title {
         text-align: center;
     }
